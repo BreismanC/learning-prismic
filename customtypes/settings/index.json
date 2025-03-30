@@ -44,13 +44,6 @@
                 "allowText": true,
                 "repeat": false
               }
-            },
-            "label": {
-              "type": "Text",
-              "config": {
-                "label": "Label",
-                "placeholder": ""
-              }
             }
           }
         }
