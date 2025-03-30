@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { Nunito, Nunito_Sans } from "next/font/google";
 import { createClient } from "@/prismicio";
 
-import { Header } from "@/app/components/Header";
-import { Footer } from "@/app/components/Footer";
+import { Header } from "@/app/components";
+import { Footer } from "@/app/components";
 
 import clsx from "clsx";
 import "./globals.css";
